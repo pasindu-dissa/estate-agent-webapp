@@ -1,24 +1,21 @@
-import logo from './logo.svg';
+import React, { useState, useMemo } from 'react';
+import Header from './components/Header';
+import './index.css';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app-root">
+      <Header />
+
+      <main className="main-content">
+      </main>
+
+      <footer className="app-footer">
+        <div className="container">
+           <p>© 2026 Estate Agent. Your trusted property partner.</p>
+           <p style={{fontSize: '0.875rem', opacity: 0.5, margin: 0}}>Developed by Pasindu Dissanayake.</p>
+        </div>
+      </footer>
     </div>
   );
 }
-
-export default App;
