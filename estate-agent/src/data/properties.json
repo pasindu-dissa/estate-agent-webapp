@@ -1,0 +1,134 @@
+[
+  {
+    "id": "prop1",
+    "type": "House",
+    "bedrooms": 3,
+    "price": 750000,
+    "tenure": "Freehold",
+    "description": "This attractive three bedroom semi-detached family home is situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior.",
+    "location": "Petts Wood Road, Petts Wood, Orpington BR5",
+    "postcodeArea": "BR5",
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1576941089067-2de3c901e126?auto=format&fit=crop&w=800&q=80"
+    ],
+    "added": {
+      "month": "October",
+      "day": 12,
+      "year": 2022
+    }
+  },
+  {
+    "id": "prop2",
+    "type": "Flat",
+    "bedrooms": 2,
+    "price": 399995,
+    "tenure": "Leasehold",
+    "description": "Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room.",
+    "location": "Crofton Road Orpington BR6",
+    "postcodeArea": "BR6",
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80"
+    ],
+    "added": {
+      "month": "September",
+      "day": 14,
+      "year": 2022
+    }
+  },
+  {
+    "id": "prop3",
+    "type": "House",
+    "bedrooms": 5,
+    "price": 1250000,
+    "tenure": "Freehold",
+    "description": "A magnificent 5-bedroom detached residence set within private grounds. The property has been extensively renovated to offer contemporary living spaces while retaining character features. The ground floor boasts a massive open-plan kitchen/diner with bi-fold doors, a separate formal lounge, and a study. Upstairs, the master suite includes a walk-in wardrobe and en-suite. The garden features a heated swimming pool and summer house.",
+    "location": "Chislehurst Road, Chislehurst BR7",
+    "postcodeArea": "BR7",
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "added": {
+      "month": "January",
+      "day": 5,
+      "year": 2023
+    }
+  },
+  {
+    "id": "prop4",
+    "type": "Flat",
+    "bedrooms": 1,
+    "price": 275000,
+    "tenure": "Leasehold",
+    "description": "An ideal starter home, this 1 bedroom apartment offers modern living in the heart of the town. The property features a spacious open-plan living area leading to a private balcony. The bedroom is generous in size with fitted wardrobes. The bathroom is contemporary with high-end fixtures. Includes secure underground parking.",
+    "location": "High Street, Bromley BR1",
+    "postcodeArea": "BR1",
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a1c002085d2f?auto=format&fit=crop&w=800&q=80"
+    ],
+    "added": {
+      "month": "November",
+      "day": 20,
+      "year": 2022
+    }
+  },
+  {
+    "id": "prop5",
+    "type": "House",
+    "bedrooms": 4,
+    "price": 650000,
+    "tenure": "Freehold",
+    "description": "A charming Victorian terrace offering 4 bedrooms arranged over three floors. The property retains many original features such as cornicing, ceiling roses, and feature fireplaces. The kitchen has been extended to provide a dining area with views of the south-facing garden. Located in a quiet cul-de-sac moments from the park.",
+    "location": "Albert Road, Penge SE20",
+    "postcodeArea": "SE20",
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=800&q=80"
+    ],
+    "added": {
+      "month": "December",
+      "day": 1,
+      "year": 2022
+    }
+  },
+  {
+    "id": "prop6",
+    "type": "Bungalow",
+    "bedrooms": 2,
+    "price": 550000,
+    "tenure": "Freehold",
+    "description": "This two bedroom detached bungalow sits on a substantial plot offering huge potential for extension or loft conversion subject to planning permission. The property currently offers two double bedrooms, a large lounge, and a separate kitchen. Outside, the rear garden extends to over 100ft. There is a detached garage and ample driveway parking.",
+    "location": "Hayes Lane, Hayes BR2",
+    "postcodeArea": "BR2",
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "added": {
+      "month": "October",
+      "day": 30,
+      "year": 2022
+    }
+  },
+  {
+    "id": "prop7",
+    "type": "Flat",
+    "bedrooms": 3,
+    "price": 850000,
+    "tenure": "Share of Freehold",
+    "description": "Exquisite penthouse living. This 3 bedroom apartment features wrap-around balconies offering stunning views of the skyline. The master suite occupies its own wing with a dressing room and luxury en-suite. The living space is vast and flooded with light. Residents benefit from 24hr concierge, a private gym, and secure parking.",
+    "location": "Glasshouse Gardens, Stratford E20",
+    "postcodeArea": "E20",
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1512915922686-57c11dde9b6b?auto=format&fit=crop&w=800&q=80"
+    ],
+    "added": {
+      "month": "August",
+      "day": 15,
+      "year": 2022
+    }
+  }
+]
