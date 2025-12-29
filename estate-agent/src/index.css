@@ -520,6 +520,43 @@ img {
   background-color: #ef4444;
   color: white;
 }
+
+.card-price-overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 0.75rem;
+  padding-top: 2.5rem;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+}
+
+.card-price-overlay p {
+  color: white;
+  font-weight: 700;
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.card-body {
+  padding: 1rem;
+}
+
+.card-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.card-title {
+  font-weight: 600;
+  font-size: 1.125rem;
+  color: #1f2937;
+  margin: 0;
+}
+
+.card-badge {
   font-size: 0.875rem;
   background-color: #dbeafe;
   color: #1e40af;
