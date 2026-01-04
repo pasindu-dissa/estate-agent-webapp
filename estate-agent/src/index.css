@@ -781,7 +781,49 @@ img {
   }
 }
 
-/* Tab Content Specifics */
+/* --- React Tabs Styles --- */
+.tabs-wrapper { min-height: 400px; padding: 0; }
+
+.react-tabs__tab-list {
+  display: flex;
+  border-bottom: 1px solid var(--border-color);
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  overflow-x: auto;
+}
+
+.react-tabs__tab {
+  padding: 1rem 1.5rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  white-space: nowrap;
+  outline: none;
+  flex-shrink: 0;
+}
+
+.react-tabs__tab:hover { color: #374151; }
+
+.react-tabs__tab--selected {
+  color: var(--primary-color);
+  border-bottom-color: var(--primary-color);
+  background: transparent;
+}
+
+.react-tabs__tab-panel {
+  display: none;
+  padding: 1.5rem;
+  animation: fadeEffect 0.3s;
+}
+
+.react-tabs__tab-panel--selected { display: block; }
+@keyframes fadeEffect { from { opacity: 0; } to { opacity: 1; } }
+
+.tab-label-content { display: flex; align-items: center; gap: 0.5rem; }
+
+/* Tab Content Specifics (UPDATED) */
 .tab-heading {
   font-size: 1.25rem;
   font-weight: 700;
@@ -826,6 +868,25 @@ img {
   font-weight: 500;
   color: #1f2937;
 }
+
+/* Map & Floor Plan Styles */
+.map-frame {
+  height: 300px;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  margin-bottom: 1rem;
+}
+.floorplan-viewer {
+  height: auto;
+  text-align: center;
+  background-color: var(--bg-color);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--border-color);
+}
+.floorplan-overlay { margin-top: 0.5rem; font-size: 0.875rem; color: var(--text-secondary); font-style: italic; }
+
 
 /* Sidebar Info */
 .info-card {
